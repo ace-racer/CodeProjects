@@ -1,0 +1,6 @@
+c:\users\anchat\documents\visual studio 2015\Projects\CodeProjects\CodeProjects\bin\Debug\CodeProjects.exe.config
+c:\users\anchat\documents\visual studio 2015\Projects\CodeProjects\CodeProjects\bin\Debug\CodeProjects.exe
+c:\users\anchat\documents\visual studio 2015\Projects\CodeProjects\CodeProjects\bin\Debug\CodeProjects.pdb
+c:\users\anchat\documents\visual studio 2015\Projects\CodeProjects\CodeProjects\obj\Debug\CodeProjects.csprojResolveAssemblyReference.cache
+c:\users\anchat\documents\visual studio 2015\Projects\CodeProjects\CodeProjects\obj\Debug\CodeProjects.exe
+c:\users\anchat\documents\visual studio 2015\Projects\CodeProjects\CodeProjects\obj\Debug\CodeProjects.pdb
